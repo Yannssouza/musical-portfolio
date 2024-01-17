@@ -5,13 +5,13 @@ export default [
     link: "https://soundcloud.com/yan-de-souza-749882429/use-somebody-cover",
   },
   {
-    title: "Flashworx - Futurisma",
-    genre: ["Eletronic"],
-    link: "https://soundcloud.com/flashworx/futurisma",
+    title: "Thomas Borges - The Less I Know the Better (Cover)",
+    genre: ["Pop"],
+    link: "https://soundcloud.com/yan-de-souza-749882429/the-less-i-know-the-better-cover",
   },
   {
-    title: "Lucy in Disguise - 1987",
-    genre: ["Folk"],
-    link: "https://soundcloud.com/lucy-in-disguise-1/1987-1_l",
+    title: "Rodrigo Rampazzo - Unending Love",
+    genre: ["Worship"],
+    link: "https://soundcloud.com/yan-de-souza-749882429/unending-love",
   },
 ];
