@@ -1,8 +1,8 @@
 export default [
   {
-    title: "Miami Nights - Accelerated",
-    genre: ["EDM"],
-    link: "https://soundcloud.com/miami-nights-1984/accelerated",
+    title: "Monoimage - Use Somebody (Cover)",
+    genre: ["Rock"],
+    link: "https://soundcloud.com/yan-de-souza-749882429/use-somebody-cover",
   },
   {
     title: "Flashworx - Futurisma",
